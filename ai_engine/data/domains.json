@@ -1,0 +1,107 @@
+[
+    {
+        "id": "DM001",
+        "name": "Technology",
+        "description": "Technology, software development, artificial intelligence, cybersecurity, cloud computing and emerging digital technologies.",
+        "icon": "💻",
+        "color": "#2563EB"
+    },
+    {
+        "id": "DM002",
+        "name": "Healthcare & Medicine",
+        "description": "Healthcare, medicine, pharmacy, biotechnology and medical sciences.",
+        "icon": "🩺",
+        "color": "#DC2626"
+    },
+    {
+        "id": "DM003",
+        "name": "Business & Entrepreneurship",
+        "description": "Business management, finance, startups, marketing and entrepreneurship.",
+        "icon": "💼",
+        "color": "#F59E0B"
+    },
+    {
+        "id": "DM004",
+        "name": "Research & Innovation",
+        "description": "Scientific research, innovation, laboratories and advanced technology development.",
+        "icon": "🔬",
+        "color": "#7C3AED"
+    },
+    {
+        "id": "DM005",
+        "name": "Sports",
+        "description": "Professional sports, coaching, fitness and sports science.",
+        "icon": "🏆",
+        "color": "#16A34A"
+    },
+    {
+        "id": "DM006",
+        "name": "Arts & Design",
+        "description": "Creative arts, design, animation, fashion and digital media.",
+        "icon": "🎨",
+        "color": "#EC4899"
+    },
+    {
+        "id": "DM007",
+        "name": "Media & Communication",
+        "description": "Journalism, communication, public relations, content creation and broadcasting.",
+        "icon": "🎤",
+        "color": "#EA580C"
+    },
+    {
+        "id": "DM008",
+        "name": "Law & Public Service",
+        "description": "Law, judiciary, civil services and governance.",
+        "icon": "⚖️",
+        "color": "#92400E"
+    },
+    {
+        "id": "DM009",
+        "name": "Education",
+        "description": "Teaching, training, education technology and academic leadership.",
+        "icon": "📚",
+        "color": "#0F766E"
+    },
+    {
+        "id": "DM010",
+        "name": "Agriculture & Environment",
+        "description": "Agriculture, environmental science, sustainability and natural resources.",
+        "icon": "🌱",
+        "color": "#15803D"
+    },
+    {
+        "id": "DM011",
+        "name": "Defence & Security",
+        "description": "Army, Navy, Air Force, Police, Intelligence and National Security.",
+        "icon": "🛡️",
+        "color": "#374151"
+    },
+    {
+        "id": "DM012",
+        "name": "Hospitality & Tourism",
+        "description": "Hotels, tourism, travel management and customer experience.",
+        "icon": "🏨",
+        "color": "#0891B2"
+    },
+    {
+        "id": "DM013",
+        "name": "Skilled Trades",
+        "description": "Technical trades, manufacturing, electrical, mechanical and industrial careers.",
+        "icon": "🛠️",
+        "color": "#B45309"
+    },
+    {
+        "id": "DM014",
+        "name": "Social Impact",
+        "description": "Social work, NGOs, community development and public welfare.",
+        "icon": "🤝",
+        "color": "#DB2777"
+    },
+    {
+        "id": "DM015",
+        "name": "Emerging Technologies",
+        "description": "Quantum computing, blockchain, Web3, space technology, biotechnology and future technologies.",
+        "icon": "🚀",
+        "color": "#4F46E5"
+    }
+]

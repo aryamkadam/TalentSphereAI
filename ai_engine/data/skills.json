@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SK001",
+    "name": "Logical Thinking",
+    "category": "Cognitive",
+    "description": "Ability to solve logical and analytical problems."
+  },
+  {
+    "id": "SK002",
+    "name": "Creativity",
+    "category": "Personal",
+    "description": "Ability to generate original ideas."
+  },
+  {
+    "id": "SK003",
+    "name": "Communication",
+    "category": "Social",
+    "description": "Ability to express ideas clearly."
+  }
+]
